@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Redux, Next, Express, MySQL.
 - 📫 How to reach me: 
 - email: meves.sergey@gmail.ru 
-- site: https://t.me/medvedkinsergey 
 
 <!---
 meves/meves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
